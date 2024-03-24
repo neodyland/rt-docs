@@ -1,0 +1,6 @@
+site_name: RT Documentation
+
+theme:
+  name: material
+
+copyright: Copyright &copy; 2021- Neody
